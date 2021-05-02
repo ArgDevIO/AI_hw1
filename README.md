@@ -4,7 +4,7 @@
 
 ## Prerequisites to run these python scripts
 - [python 3.7.7](https://www.python.org/downloads/release/python-377/) or greater
-- [py-game](https://www.pygame.org/wiki/GettingStarted)
+- [pygame](https://www.pygame.org/wiki/GettingStarted)
   - installation: 
 	```bash
 	python3 -m pip install -U pygame --user
