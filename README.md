@@ -1,6 +1,6 @@
-# Artificial Intelligence - HM1
+# Artificial Intelligence - Home Work 1
 ## About
-***HW1 python solutions for Artificial Intelligence course, [FCSE](https://finki.ukim.mk/en), Skopje*** 
+***Home Work 1 python solutions for Artificial Intelligence course, [FCSE](https://finki.ukim.mk/en), Skopje*** 
 
 ## Prerequisites to run these python scripts
 - [python 3.7.7](https://www.python.org/downloads/release/python-377/) or greater
